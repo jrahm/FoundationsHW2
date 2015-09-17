@@ -11,6 +11,7 @@ git push --all
 git commit -am "6"
 git pull origin bug-fix-experimental
 git commit -am "11"
+git commit -am "12"
 git push origin bug-fix
  
 git pull origin app
